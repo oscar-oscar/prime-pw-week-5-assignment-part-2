@@ -4,10 +4,18 @@ header {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     text-align: center;
-    padding: 12px 32px;
+ 
 }
 
 main {
     background-color: lightgrey;
-    padding: 12px 32px;
+    padding: 12px 11px;
 }
+
+
+    
+body {
+    background-image: url('record.png');
+    background-repeat: repeat;
+    background-size: 50px;
+  }
