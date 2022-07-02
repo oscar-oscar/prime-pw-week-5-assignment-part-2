@@ -1,4 +1,9 @@
 header {
     background-color: rgb(82, 24, 9);
+    color:beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+    padding: 12px 32px;
     
 };
